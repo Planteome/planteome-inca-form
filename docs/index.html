@@ -13,30 +13,9 @@
 
   <base href="/planteome-inca-form/" />
 
-  <script>
-    console.log('window.customTE', window.customTE, window.location);
-    var baseURL = window.location.origin + '/planteome-inca-form';
-    window.configTE = {
-      logoImage: baseURL + '/logo.jpg',
-      bundleURL: 'https://incatools.github.io/table-editor/',
-      baseURL: baseURL,
-      configNames: [
-        'Plant-Environment',
-        'Plant-Trait'
-      ],
-      configByName: {
-        'Plant-Environment': baseURL + '/configurations/Plant-Environment/config.yaml',
-        'Plant-Trait': baseURL + '/configurations/Plant-Trait/config.yaml'
-      }
-    };
-    console.log('Plant-Environment', window.configTE.configByName['Plant-Environment']);
-    console.log('Plant-Trait', window.configTE.configByName['Plant-Trait']);
-  </script>
+    <script type="text/javascript" src="http://doctorbud.com/table-editor/bundle.js"></script>
 
-    <script type="text/javascript" src="https://incatools.github.io/table-editor/vendor.js"></script>
-    <script type="text/javascript" src="https://incatools.github.io/table-editor/bundle.js"></script>
-
-    <title>Planteome Table Editor V0.7 (BETA)</title>
+    <title>Planteome Table Editor V0.8 (BETA)</title>
   </head>
 
   <body ng-app="app">

@@ -1,0 +1,10 @@
+{
+  "configNames":
+    [
+      "Plant-Environment",
+      "Plant-Trait"
+    ],
+  "logoImage": "logo.jpg",
+  "xbaseURL": "/planteome-inca-form",
+  "baseURL": "/"
+}
