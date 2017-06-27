@@ -5,6 +5,5 @@
       "Plant-Trait"
     ],
   "logoImage": "logo.jpg",
-  "xbaseURL": "/planteome-inca-form",
-  "baseURL": "/"
+  "baseURL": "/planteome-inca-form"
 }
