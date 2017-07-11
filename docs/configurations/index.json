@@ -1,9 +1,9 @@
 {
-  "configNames":
-    [
-      "Plant-Environment",
-      "Plant-Trait"
-    ],
+  "configNames": [
+    "plant-environment-ontology",
+    "plant-trait-ontology"
+  ],
   "logoImage": "logo.jpg",
-  "baseURL": "/planteome-inca-form"
+  "baseURL": "/planteome-inca-form/",
+  "title": "Planteome Plant Ontology"
 }
