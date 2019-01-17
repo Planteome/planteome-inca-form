@@ -7,12 +7,12 @@ defaultPatterns:
     title: peco_role.yaml
 
 defaultXSVs:
-  - url: https://raw.githubusercontent.com/Planteome/plant-experimental-conditions-ontology/master/src/ontology/patterns/exposure-chebi.csv
-    title: exposure-chebi.csv
-  - url: https://raw.githubusercontent.com/Planteome/plant-experimental-conditions-ontology/master/src/ontology/patterns/exposure-chebi_role.csv
-    title: exposure-chebi_role.csv
-  - url: https://raw.githubusercontent.com/Planteome/plant-experimental-conditions-ontology/master/src/ontology/patterns/exposure-envo.csv
-    title: exposure-envo.csv
-  - url: https://raw.githubusercontent.com/Planteome/plant-experimental-conditions-ontology/master/src/ontology/patterns/exposure-ncbitaxon.csv
-    title: exposure-ncbitaxon.csv
+  - url: https://raw.githubusercontent.com/Planteome/plant-experimental-conditions-ontology/master/src/ontology/patterns/exposure-chebi.tsv
+    title: exposure-chebi.tsv
+  - url: https://raw.githubusercontent.com/Planteome/plant-experimental-conditions-ontology/master/src/ontology/patterns/exposure-chebi_role.tsv
+    title: exposure-chebi_role.tsv
+  - url: https://raw.githubusercontent.com/Planteome/plant-experimental-conditions-ontology/master/src/ontology/patterns/exposure-envo.tsv
+    title: exposure-envo.tsv
+  - url: https://raw.githubusercontent.com/Planteome/plant-experimental-conditions-ontology/master/src/ontology/patterns/exposure-ncbitaxon.tsv
+    title: exposure-ncbitaxon.tsv
 
